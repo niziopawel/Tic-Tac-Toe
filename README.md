@@ -23,7 +23,6 @@ Project is created with:
 To run this project, install it locally using npm or yarn:
 
 ```
-$ cd ../tictactoe
 $ npm install / yarn
 $ npm start dev / yarn dev
 ```
