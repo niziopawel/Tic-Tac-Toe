@@ -25,7 +25,7 @@ To run this project, install it locally using npm or yarn:
 
 ```
 $ npm install / yarn
-$ npm start dev / yarn dev
+$ npm run dev / yarn dev
 ```
 
 ## Screenshot
