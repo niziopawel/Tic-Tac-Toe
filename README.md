@@ -11,7 +11,7 @@
 
 Tic-tac-toe game written in vanilla javascript with two game modes (player vs player and player vs AI). Implemented minimax algorithm makes AI unbeatable.
 
-## General info
+## Live Demo
 
 https://tictactoelive.herokuapp.com/
 
